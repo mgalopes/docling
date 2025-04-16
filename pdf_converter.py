@@ -7,7 +7,7 @@ import shutil
 import hashlib
 
 # Define paths with raw strings for Windows
-source = r"C:\Users\garci\Downloads\Lista de exercícios resolvidos 01 - Propriedades - PME3398.pdf"
+source = r"C:\Users\garci\Downloads\Lista_TZ.pdf"
 output_dir = Path(r"C:\Users\garci\Downloads\Obsidian_Notes")
 image_dir = output_dir / "attachments"
 
